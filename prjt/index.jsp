@@ -5,4 +5,4 @@ aaa ~~~~~~~~
 
 local update 
 
-이클립스에서 수정
+git hub에서 수정
